@@ -55,7 +55,7 @@
 ---
 
 ## 5. 디렉터리 구조 (Project Structure)
-security-audit/
+```security-audit/
  ├── scripts/
  │   ├── audit_centos.sh
  │   ├── audit_ubuntu.sh
@@ -66,4 +66,4 @@ security-audit/
  │   └── merge_duplicates.py
  ├── sample/
  │   └── sample_result.txt
- └── README.md
+ └── README.md```
