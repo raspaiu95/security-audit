@@ -53,17 +53,3 @@
 ```
 
 ---
-
-## 5. 디렉터리 구조 (Project Structure)
-```security-audit/
- ├── scripts/
- │   ├── audit_centos.sh
- │   ├── audit_ubuntu.sh
- │   └── audit_rocky.sh
- ├── parser/
- │   ├── parse_result.py
- │   ├── normalize_filename.py
- │   └── merge_duplicates.py
- ├── sample/
- │   └── sample_result.txt
- └── README.md```
