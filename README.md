@@ -58,6 +58,7 @@ Linux 서버 환경(Ubuntu, Rocky Linux)을 대상으로 보안 취약점 점검
 
 ## 📁 6. 파일 구성 (File Structure)
 
+```text
 .
 ├── ubuntu_audit.sh        # Ubuntu 보안 취약점 점검 스크립트
 ├── rocky_audit.sh         # Rocky Linux 보안 취약점 점검 스크립트
