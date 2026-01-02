@@ -64,7 +64,7 @@ Linux 서버 환경(Ubuntu, Rocky Linux)을 대상으로 보안 취약점 점검
 ├── rocky_audit.sh         # Rocky Linux 보안 취약점 점검 스크립트
 ├── statistics.py          # 진단 결과 파싱 및 통계/준수율 산출
 └── README.txt
-
+```
 ---
 
 ## ▶️ 7. 사용 방법 (Usage)
